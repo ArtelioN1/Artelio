@@ -13,6 +13,6 @@
 </p>
 
 <p>I'm currently studying and focusing on creating projects in the following technologies:</p>
--HTML
--CSS
--JavaScript
+<p>-HTML</p>
+<p>-CSS</p>
+<p>-JavaScript</p>
